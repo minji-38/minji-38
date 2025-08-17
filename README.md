@@ -64,30 +64,23 @@
 
 ## 🏅 Stats
 
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=minji-38&custom_title=minji-38's%20GitHub%20Stats&show_icons=true&hide_border=true" 
+        alt="GitHub Stats" />
+    </td>
+    <td>
+      <img 
+        src="https://streak-stats.demolab.com?user=minji-38&hide_border=true" 
+        alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  
-  <!-- 2-Column layout -->
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=minji-38&custom_title=minji-38's%20GitHub%20Stats&show_icons=true&hide_border=true" 
-          alt="GitHub Stats" />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji-38&layout=compact&hide_border=true" 
-          alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Streak (optional) -->
-  <img src="https://streak-stats.demolab.com?user=minji-38&hide_border=true" alt="GitHub Streak" />
-
-  <!-- Trophy (optional) -->
   <img src="https://github-profile-trophy.vercel.app/?username=minji-38&row=1&column=6&no-frame=true" alt="trophies" />
-
 </div>
 
 ---
