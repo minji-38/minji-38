@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello,%20I'm%20minji!&fontColor=ffffff&fontSize=50" />
 </div>
 
+
 ## 😁 확장 가능한 서비스를 꿈꾸는 개발자
 **사용자 경험에 집중하여, 확장성 있는 프론트엔드 서비스를 구현합니다.**
 
@@ -115,15 +116,15 @@
   </tr>
 </table>
 
+  
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minji-38&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/minji-38"
+    src="https://render.gitanimals.org/lines/minji-38?pet-id=748068561113817058"
     width="600"
     height="120"
   />
 </a>
-  
-
 
 ---
 
